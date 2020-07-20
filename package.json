@@ -1,6 +1,6 @@
 {
   "name": "scheduli",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Simple scheduler to get rid of your setTimeout and setInterval calls",
   "type": "module",
   "main": "index.js",
